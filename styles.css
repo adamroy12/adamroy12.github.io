@@ -5,7 +5,7 @@ body {
   min-height: calc(100vh - 16px);
 }
 
-#black-readable {
+#wrapperdiv {
   background-color: #00000097;
   padding-bottom: 20px;
   border-radius: 20px;
